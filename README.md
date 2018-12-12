@@ -1,6 +1,6 @@
 <h1 align="center">Express 中文文档</h1>
 
-<p align="center">Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org/en/)</p>
+<p align="center">Fast, unopinionated, minimalist web framework for <a href="https://nodejs.org/en/">Node.js</a></p>
 
 ```
 $ npm install express --save
@@ -23,7 +23,7 @@ $ npm install express --save
       </td>
       <td align="center" valign="middle">
         <h3>Frameworks</h3>
-        <p>许多 [流行的开发框架](http://expressjs.com/en/resources/frameworks.html) 都基于 Express 构建。</p>
+        <p>许多 <a href="http://expressjs.com/en/resources/frameworks.html">流行的开发框架</a> 都基于 Express 构建。</p>
       </td>
     </tr>
   </tbody>
