@@ -3,8 +3,8 @@
 > 下面代码的就是你能创建的最简单的Express应用程序。它是一个单独的文件应用程序，如果您使用[Express generator](http://expressjs.com/en/starter/generator.html)，它将创建一个完整的应用程序脚手架，包括JavaScript文件、Jade模板和用于各种目的的子目录。
 
 ```javascript
-const express = require('express')
-const app = express()
+const express = require('express')  //引入express
+const app = express() //创建express实例
 const port = 3000
 
 app.get('/', (req, res) => res.send('Hello World!'))
