@@ -17,6 +17,8 @@ $ npm install express --save
         <h3>APIs</h3>
         <p>使用您所选择的各种 HTTP 实用工具和中间件，快速方便地创建强大的 API。</p>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="middle">
         <h3>Performance</h3>
         <p>Express 提供精简的基本 Web 应用程序功能，而不会隐藏您了解和青睐的 Node.js 功能。</p>
