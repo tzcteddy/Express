@@ -1,10 +1,13 @@
 <h1 align="center">Express 中文文档</h1>
 
-<p align="center">Fast, unopinionated, minimalist web framework for <a href="https://nodejs.org/en/" target="_blank">Node.js</a></p>
+<p align="center">Fast, unopinionated, minimalist web framework for <a href="https://nodejs.org/en/">Node.js</a></p>
 
 ```
 $ npm install express --save
 ```
+
+> :speaker: Express 4.16.0 版本包含了重要的安全更新。
+欲了解此版本添加了哪些功能，请参考 [4.16.0](http://www.expressjs.com.cn/changelog/4x.html#4.16.0) 修改记录.
 
 <table>
   <tbody>
@@ -25,7 +28,7 @@ $ npm install express --save
       </td>
       <td valign="middle">
         <h3 align="center">Frameworks</h3>
-        <p>许多 <a href="http://expressjs.com/en/resources/frameworks.html" target="_blank">流行的开发框架</a> 都基于 Express 构建。</p>
+        <p>许多 <a href="http://expressjs.com/en/resources/frameworks.html">流行的开发框架</a> 都基于 Express 构建。</p>
       </td>
     </tr>
   </tbody>
