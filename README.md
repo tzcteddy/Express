@@ -1,6 +1,6 @@
 # <center> Express 中文文档 </center>
 
-###### <center>Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org/en/)</center>
+<center>Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org/en/)</center>
 
 ```
 $ npm install express --save
