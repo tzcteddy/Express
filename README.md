@@ -2,6 +2,15 @@
 
 <p align="center">Fast, unopinionated, minimalist web framework for <a href="https://nodejs.org/en/">Node.js</a></p>
 
+<h3>翻译进度：</h3>
+
+  - Home ---------------------- 100%
+  - Getting started ----------- 100%
+  - Guide --------------------- 30%
+  - API reference ------------- 0%
+  - Advanced topics ----------- 0%
+  - Resources ----------------- 0%
+
 ```
 $ npm install express --save
 ```
