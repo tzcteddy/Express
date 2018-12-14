@@ -1,6 +1,6 @@
 ﻿# Hello world example
 
-> 下面代码的就是你能创建的最简单的Express应用程序。它是一个单独的文件应用程序。如果您使用[Express generator](http://expressjs.com/en/starter/generator.html)，它将创建一个完整的应用程序脚手架，包括JavaScript文件、Jade模板和用于各种目的的子目录。
+> 下面代码的就是你能创建的最简单的Express应用程序。它是一个单独的文件应用程序。如果您使用[Express generator](https://github.com/quxiaodong/express/blob/master/Getting%20started/%E7%94%9F%E6%88%90%E5%99%A8.md)，它将创建一个完整的应用程序脚手架，包括JavaScript文件、Jade模板和用于各种目的的子目录。
 
 ```javascript
 const express = require('express')
@@ -20,7 +20,7 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
 ## 运行本地程序
 
-一开始，我们创建了一个名为myapp的目录，进入目录，并运行 `npm init` 。然后根据[安装指南](http://expressjs.com/en/starter/installing.html)将express安装为依赖项。
+一开始，我们创建了一个名为myapp的目录，进入目录，并运行 `npm init` 。然后根据[安装指南](https://github.com/quxiaodong/express/blob/master/Getting%20started/%E5%AE%89%E8%A3%85.md)将express安装为依赖项。
 
 在myapp目录中，创建一个名为app.js的文件，并复制上面示例的代码。
 
