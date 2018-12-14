@@ -24,7 +24,7 @@ app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
 在myapp目录中，创建一个名为app.js的文件，并复制上面示例的代码。
 
-> req（请求）和res（响应）是Node提供的完全相同的对象，因此在没有Expess的参与下，您可以调用req.pipe()、req.on('data', callback)做任何事情。
+> req（请求）和res（响应）是Node提供的完全相同的对象，因此在没有Expess的参与下，您也可以调用req.pipe()、req.on('data', callback)做任何事情。
 
 使用以下命令运行应用程序：
 
