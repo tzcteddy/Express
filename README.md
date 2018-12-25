@@ -8,7 +8,7 @@
   - Getting started ----------- 100%
   - Guide --------------------- 100%（版本迁移和数据库集成不翻译）
   - API reference ------------- 0%
-  - Advanced topics ---------- 0%
+  - Advanced topics ---------- 100%（除了模板引擎，其他都不翻译）
   - Resources ----------------- 0%
 
 ```
