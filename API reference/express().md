@@ -1,6 +1,6 @@
 ﻿# express()
 
-创建一个Express应用程序。express()函数是express模块导出的最高层次函数。
+创建一个Express应用程序。`express()` 函数是express模块导出的最高层函数。
 
 ```javascript
 var express = require('express');
