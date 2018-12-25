@@ -9,7 +9,7 @@
   - Guide --------------------- 100%（版本迁移和数据库集成不翻译）
   - API reference ------------- 0%
   - Advanced topics ---------- 100%（除了模板引擎，其他都不翻译）
-  - Resources ----------------- 0%
+  - Resources ----------------- 50%（只翻译中间件和实用模块）
 
 ```
 $ npm install express --save
